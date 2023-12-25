@@ -31,10 +31,6 @@ CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 
 # RUN rm -rf kubectl
 # ENTRYPOINT ["/bin/bash", "-c"]
-~
-~
-
-
 
 
 # FROM google/cloud-sdk:418.0.0-alpine
